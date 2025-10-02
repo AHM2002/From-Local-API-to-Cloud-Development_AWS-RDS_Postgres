@@ -91,8 +91,8 @@ This project demonstrates secure **API development**, **cloud deployment (AWS)**
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/photo_store_api.git
-cd photo_store_api
+git clone https://github.com/yourusername/photography_store_api.git
+cd photography_store_api
 
 # Install dependencies
 npm install
